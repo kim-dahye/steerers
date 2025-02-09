@@ -43,3 +43,12 @@ python get_Q16_accuracy.py --path violence_result/sd14_exp4_layer9  # For violen
 ```
 style_change.ipynb
 ```
+
+## Citing our work
+```bibtex
+@article{kim2025concept,
+  title={Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations},
+  author={Kim, Dahye and Ghadiyaram, Deepti},
+  journal={arXiv preprint arXiv:2501.19066},
+  year={2025}
+}
