@@ -39,5 +39,6 @@ python Eval/compute_nudity_rate.py --root i2p_result/sd14_exp4_layer9  # For nud
 python get_Q16_accuracy.py --path violence_result/sd14_exp4_layer9
 ```
 # play with jupyter notebook
+```
 style_transfer.ipynb
-
+```
