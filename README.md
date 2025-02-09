@@ -37,7 +37,7 @@ To evaluate, first download the appropriate classifier for each category and pla
 Then, run the following commands:
 ```
 python Eval/compute_nudity_rate.py --root i2p_result/sd14_exp4_layer9  # For nudity concept
-python get_Q16_accuracy.py --path violence_result/sd14_exp4_layer9
+python get_Q16_accuracy.py --path violence_result/sd14_exp4_layer9  # For violence concept
 ```
 # play with jupyter notebook
 ```
