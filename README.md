@@ -7,7 +7,7 @@ Official code implementation of "Concept Steerers: Leveraging K-Sparse Autoencod
 <img src="./assets/main.png" alt="Steerers" width="80%">
 
 
-## Environment setup
+## Environment setup 
 ```
 git clone https://github.com/kim-dahye/steerers.git
 conda env create -f steerers.yaml
