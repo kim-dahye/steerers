@@ -1,6 +1,6 @@
 # Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations
 
-### **[Project Page](https://steerers.github.io/) | [arXiv](https://arxiv.org/abs/2501.19066)**
+### **[Project Page](https://steerers.github.io/) | [arXiv](https://arxiv.org/abs/2501.19066) | [Demo](https://huggingface.co/spaces/ryanjg/steerers)**
 
 Official code implementation of "Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations," arXiv 2025.
 
